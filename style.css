@@ -71,22 +71,4 @@ button:hover {
     box-shadow: 0 0 15px #00ff9f;
 }
 
-#matrix {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    background: black;
-}
-#terminal {
-    background: black;
-    color: #00ff9f;
-    padding: 15px;
-    font-family: monospace;
-    height: 200px;
-    overflow-y: auto;
-    border: 1px solid #00ff9f;
-    box-shadow: 0 0 10px #00ff9f;
-}
+

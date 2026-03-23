@@ -71,7 +71,7 @@ function typeTerminal() {
         terminal.scrollTop = terminal.scrollHeight;
         index++;
 
-        setTimeout(typeTerminal, 1000);
+        setTimeout(typeTerminal, 100);
     }
 }
 
